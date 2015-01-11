@@ -6,16 +6,18 @@ end
 
 class B
   def dabl
-    if ff == hh && nn == mm
+    if ff == hh && nn == mm && zz == 1
       cc = 101
-      puts 'qwerty'
+      call123('qwerty')
+      call123('qwerty')
     end
   end
   
   def dab2
-    if ff == hh && nn == mm
+    if ff == hh && nn == mm && zz == 1
       cc = 101
-      puts 'qwerty'
+      call123('qwerty')
+      call123('qwerty')
     end
   end
 end
