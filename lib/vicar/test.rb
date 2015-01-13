@@ -1,6 +1,6 @@
 class A
   def meth
-    puts 1 if 1 == 0
+    puts 1 if 1 == 1
   end
 end
 
