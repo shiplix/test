@@ -19,5 +19,11 @@ class B
       call123('qwerty')
       call123('qwerty')
     end
+    
+    if ff == hh && nn == mm && zz == 1
+      cc = 101
+      call123('qwerty')
+      call123('qwerty')
+    end
   end
 end
